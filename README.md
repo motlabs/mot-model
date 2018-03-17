@@ -7,11 +7,6 @@ Readme for Model Repository of MoT lab
 ## About
 This repository provides tutorial codes of Tensorflow Models
 
-### Compiler/Interface Dependencies
-- Tensorflow >=1.4
-- Python2 <= 2.7.12
-- Python3 <= 3.6.0
-
 
 ### Components
 ```
@@ -29,9 +24,15 @@ This repository include several labs generated in MoTLab study.
 - lab6: Building and Training a LeNet5 Tensorflow model
     - ./lab6_train_tfLenet5_mnist.py
 
-### Releted Materials (All Korean)
+### Compiler/Interface Dependencies
+- Tensorflow >=1.4
+- Python2 <= 2.7.12
+- Python3 <= 3.6.0
+
+## Releted Materials (All Korean)
 - [Tensorflow fundamental](https://drive.google.com/open?id=0B44EO5r4F3SsazFXWnZnUUxLekU): KIT 2017 Sep
 - [Deep learning with Tensorflow](https://drive.google.com/drive/u/1/folders/1Q1GXw_7rwZhxmMTCbJDLaQrkn0l-6k_M) : GIST 2018 Jan
+
 
 
 
