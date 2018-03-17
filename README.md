@@ -13,7 +13,7 @@ This repository provides tutorial codes of Tensorflow Models
 - Python3 <= 3.6.0
 
 
-## Components
+### Components
 ```
 /
 |
@@ -29,22 +29,22 @@ This repository include several labs generated in MoTLab study.
 - lab6: Building and Training a LeNet5 Tensorflow model
     - ./lab6_train_tfLenet5_mnist.py
 
-# Releted Materials (All Korean)
+### Releted Materials (All Korean)
 - [Tensorflow fundamental](https://drive.google.com/open?id=0B44EO5r4F3SsazFXWnZnUUxLekU): KIT 2017 Sep
 - [Deep learning with Tensorflow](https://drive.google.com/drive/u/1/folders/1Q1GXw_7rwZhxmMTCbJDLaQrkn0l-6k_M) : GIST 2018 Jan
 
 
 
-# Feedback 
+## Feedback 
 - Issues: report issues, bugs, and request new features
 - Pull request
 - Email: jwkang10@gmail.com
 
-# License
+## License
 - Apach License 2.0
 
 
-# Authors information 
+## Authors information 
 - [Jaewook Kang Ph.D.](https://www.linkedin.com/in/jaewook-kang-3a4217b9/)
 
 
