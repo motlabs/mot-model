@@ -1,7 +1,7 @@
 #-*- coding: utf-8 -*-
 #! /usr/bin/env python
 '''
-    filename: train_TFLenet5_mnist.py
+    filename: lab6_train_tfLenet5_mnist.py
 
     description: simple end-to-end LetNet5 implementation
         - For the purpose of EverybodyTensorFlow tutorial
