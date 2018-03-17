@@ -25,9 +25,9 @@ This repository provides tutorial codes of Tensorflow Models
 ### Labs
 This repository include several labs generated in MoTLab study.
 - lab2: Building basic convolutional neural networks modules. 
-    - please see ./tf_cnn_model
+    - ./tf_cnn_model
 - lab6: Building and Training a LeNet5 Tensorflow model
-
+    - ./lab6_train_tfLenet5_mnist.py
 
 # Releted Materials (All Korean)
 - [Tensorflow fundamental](https://drive.google.com/open?id=0B44EO5r4F3SsazFXWnZnUUxLekU): KIT 2017 Sep
